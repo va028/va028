@@ -15,7 +15,7 @@
 - **Tools:** Jenkins, Docker, Git, Maven, Postman, Linux
 - **CloudPlatforms:** AWS
 
-  ### 📫 Connect with Me
+### 📫 Connect with Me
 - LinkedIn: *(linkedin.com/in/VA028)*
 - Email: *(vanshika02801@gmail.com)* 
 
