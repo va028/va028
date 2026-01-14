@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Vanshika Agrawal
+💻 Senior Software Engineer | Java Backend Developer  
+📍 Noida, India
 
-<!--
-**va028/va028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- Java Backend Developer with 3.5+ years of experience in designing and implementing microservices architecture.
+- Expertise in developing and securing RESTful APIs with Spring Security, JWT etc.
+- Skilled in Agile methodologies, Git, and Maven.
+- Believe in clean code & work-life balance.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Java, Python  
+- **Backend:** Spring Boot, Hibernate, JPA
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Jenkins, Docker, Git, Maven, Postman, Linux
+- **CloudPlatforms:** AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 📫 Connect with Me
+- LinkedIn: *(linkedin.com/in/VA028)*
+- Email: *(vanshika02801@gmail.com)* 
+
+
+
